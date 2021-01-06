@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "animate.css": "^3.7.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "chart.js": "^2.7.2",
     "core-js": "^2.5.7",
     "css-vars-ponyfill": "^1.9.0",
