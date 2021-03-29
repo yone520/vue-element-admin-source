@@ -1,6 +1,8 @@
 <template>
   <div class="app">
+    safsds
     <router-view/>
+    gjjhjjjjhjkjk
   </div>
 </template>
 

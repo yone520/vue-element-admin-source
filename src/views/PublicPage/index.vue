@@ -1,5 +1,5 @@
 <template>
-  <div>公共页面</div>
+  <div>公共页面hhghgh</div>
 </template>
 
 <script>
