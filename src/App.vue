@@ -2,7 +2,7 @@
   <div class="app">
     safsds
     <router-view/>
-    gjjhjjjjhjkjk
+    gjjhjjjjhjkjk13
   </div>
 </template>
 
